@@ -5,6 +5,10 @@ Come to our discord channel and let's discuss 😎
 
 Discord joining link - https://discord.gg/HDJ7HfAZVw
 
+## Want to support us ?
+Give a ⭐ to the [main repo](https://github.com/Portio-in/portal) and follow us in Github
+
+
 ## Do you need new template on our platform ?
 No problem. Just [fillup this form](https://docs.google.com/forms/d/e/1FAIpQLSc0y0HlMgu9X_ujlaiNC0TdFHg_EeNDsQhJ-SD0zUR4kLNGOw/viewform?usp=sf_link) and we will try our best to bring this template to platform as soon as possible.
 
